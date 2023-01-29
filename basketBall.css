@@ -1,0 +1,50 @@
+body{
+    margin: 40px;
+    background-color:#151E43;
+    
+    
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    font-family: Verdana;
+    color: #EEEEEE;
+    
+}
+.screenBoard{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Cursed Timer ULiL', sans-serif;}
+.incrPoints{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+   
+
+}
+    
+table{
+    border: 1px solid;
+    padding: 20px;
+    background-color: black;
+    color: #F94F6D;
+}
+p{
+    border: 1px solid black;
+    padding: 20px;
+    background-color: black;
+    color: red;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    
+}
+button{
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    padding: 10px;
+    color: #9AABD8;
+    border-color: #9AABD8;
+     background-color: #151E43;
+
+}
